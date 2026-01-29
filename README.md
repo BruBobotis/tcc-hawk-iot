@@ -1,8 +1,6 @@
 <p align="center">
 <img src="https://img.shields.io/github/last-commit/sharandac/My-TTGO-Watch.svg?style=for-the-badge" alt="Último Commit"/>
 &nbsp;
-<img src="https://img.shields.io/github/license/sharandac/My-TTGO-Watch.svg?style=for-the-badge" alt="Licença"/>
-&nbsp;
 </p>
 <hr/>
 
