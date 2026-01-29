@@ -3,7 +3,6 @@
 &nbsp;
 <img src="https://img.shields.io/github/license/sharandac/My-TTGO-Watch.svg?style=for-the-badge" />
 &nbsp;
-<a href="https://www.buymeacoffee.com/sharandac" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%82%AC5-orange?style=for-the-badge&logo=buy-me-a-coffee" /></a>
 </p>
 <hr/>
 
@@ -177,5 +176,3 @@ Every Contribution to this repository is highly welcome! Don't fear to create pu
 <p>
 If you want to donate to the author then you can buy me a coffee.
 <br/><br/>
-<a href="https://www.buymeacoffee.com/sharandac" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%82%AC5-orange?style=for-the-badge&logo=buy-me-a-coffee" /></a>
-</p>
